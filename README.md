@@ -1,3 +1,4 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decentboyy/BanAllBot-1)
 <p align="center"><img src="https://telegra.ph/file/3cdb65b6d72babdb39941.jpg" alt="ICON" width="250" height="250"/></p>
 
 
